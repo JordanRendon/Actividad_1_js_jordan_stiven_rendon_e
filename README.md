@@ -1,4 +1,4 @@
-# Actividad_1_sql_jordan_stiven_rendon_e
+# Actividad_1_js_jordan_stiven_rendon_e
 # Actividad _1_Js
 En esta actividad aprendimos los nuevos fundamentos de Javascript como declarar variables, crear comentarios, saber un poco de la historia de javascript, y a mostrar datos en la consola.
 ## Screenshots
